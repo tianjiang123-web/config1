@@ -12,7 +12,7 @@ spring:
       ignored-interfaces:
         - VM.*
       preferred-networks: 
-        - 192.168.64
+        - 192.168.17
   rabbitmq:
     host: 192.168.64.140
     port: 5672
